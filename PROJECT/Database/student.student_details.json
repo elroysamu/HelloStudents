@@ -1,0 +1,30 @@
+[{
+  "_id": "8b4c07c5-8a3a-41fc-9a30-bdddefa295e4",
+  "name": "Nabish",
+  "dob": "2023-06-14",
+  "cls": "IX",
+  "division": "B",
+  "admn": "R-008",
+  "gender": "male",
+  "_class": "com.quest.ValidationSpring.model.Student"
+},
+{
+  "_id": "b89ac360-944b-4b57-bd3a-271feb741acb",
+  "name": "Samu",
+  "dob": "2023-05-31",
+  "cls": "XII",
+  "division": "C",
+  "admn": "R-009",
+  "gender": "male",
+  "_class": "com.quest.ValidationSpring.model.Student"
+},
+{
+  "_id": "c28976b2-aaf6-4caf-b5af-6e6b862e12c9",
+  "name": "mamu",
+  "dob": "12/23/12",
+  "cls": "VII",
+  "division": "D",
+  "admn": "R-010",
+  "gender": "Male",
+  "_class": "com.quest.ValidationSpring.model.Student"
+}]
